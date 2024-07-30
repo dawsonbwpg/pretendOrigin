@@ -2,3 +2,5 @@ Here is an important file.
 This is the first commit on master.
 
 Made this change on development.
+
+A second change on development.
