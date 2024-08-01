@@ -9,4 +9,4 @@ Whoops, there was an issue on staging server. Had to go back to development.
 
 Here's another dev commit before staging.
 
-Now going to try rebase. 
+Now going to try doing a merge with no fast forward.
